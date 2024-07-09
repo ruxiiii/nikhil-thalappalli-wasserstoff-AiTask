@@ -46,7 +46,7 @@ Run the application :
 ```
 
 ## File Structure : 
-.
+
 ├── app.py              
 ├── requirements.txt     
 ├── .env                
